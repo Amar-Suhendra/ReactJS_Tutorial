@@ -1,6 +1,6 @@
 # ReactJS Tutorial
 This repository contains the code for the ReactJS Tutorial.
-Each folder contains a separate project.
+Each folder contains a different project.
 ## Requirements
 - NodeJS
 ## How to create a new project
